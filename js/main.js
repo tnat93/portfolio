@@ -24,7 +24,7 @@ $(document).ready(function() {
   });
 
   $(".loves").typed({
-      strings: ["science^100", "adventures^100", "music festivals^100", "Batman^100", "programming^100", "coffee^100", "low-level designing^100"],
+      strings: ["science^100", "adventures^100", "programming^100", "coffee^100", "low-level designing^100"],
       typeSpeed: 50,
       backSpeed: 25,
       loop: true
